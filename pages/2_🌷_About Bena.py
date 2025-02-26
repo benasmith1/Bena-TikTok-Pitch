@@ -12,7 +12,7 @@ with st.sidebar:
     st.header("🔍 Navigate the App")
     st.write("Use the links above to explore:")
     st.markdown("""
-    - **Sentiments About TikTok**: Explore sentiments about TikTok Bank on the web.
+    - **Sentiments About TikTok**: Explore sentiments about TikTok on the web.
     - **About Bena**: A bit about me!
     """)
 st.markdown("<h2>About Me</h2>", unsafe_allow_html=True)
