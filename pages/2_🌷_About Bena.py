@@ -20,7 +20,7 @@ st.markdown("<h2>About Me</h2>", unsafe_allow_html=True)
 col1, col2 = st.columns([0.8, 3.2])  # Adjust ratio as needed
 
 with col1:
-    st.image("figures/BenaSmithHeadshot.png", use_column_width=True, caption="")
+    st.image("figures/BenaSmithHeadshot.png", use_container_width=True, caption="")
 
 with col2:
     st.write("I am especially excited about automating and streamlining systems with data algorithms. At Gallo Winery, I created a LangChain AI agent to ask questions about Gallo’s wine sales in plain language. \
