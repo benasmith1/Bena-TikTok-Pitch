@@ -17,7 +17,7 @@ with st.sidebar:
     """)
 st.markdown("<h2>About Me</h2>", unsafe_allow_html=True)
 
-col1, col2 = st.columns([0.8, 3.2])  # Adjust ratio as needed
+col1, col2 = st.columns([1, 3])  # Adjust ratio as needed
 
 with col1:
     st.image("figures/BenaSmithHeadshot.png", use_container_width=True, caption="")
