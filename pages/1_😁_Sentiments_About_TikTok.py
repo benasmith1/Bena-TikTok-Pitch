@@ -136,4 +136,4 @@ with st.expander("🧮 **Procedure**"):
 st.write("")
 
 with st.expander("🦋 **Future Use Cases**"):
-    st.write("""A similar algorithm to this application may be used to examine the impact of TikTok ads on public sentiment. If we are interested in how customers like a specific TikTok feature, we may analyze public sentiment with this procedure.""")
+    st.write("""A similar algorithm to this application may be used to examine the impact of TikTok ads on public sentiment. If we are interested in how customers like a specific TikTok feature, we may also analyze public sentiment with this procedure.""")
