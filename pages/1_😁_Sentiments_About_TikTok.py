@@ -114,8 +114,7 @@ with st.expander("🥳 **Conclusion**"):
     st.write("""
     Most webpages express positive sentiments about TikTok and write about the wide range of available content and the community that TikTok provides. Users would like to see TikTok improve
     transparency in its content moderation and algorithm and to see more guardrails against inappropriate content. To examine these issues more carefully, we might send out surveys to get direct
-    feedback about our product and run this analysis on those surveys. People might be more inclinded to include more detailed descriptions of potential feature fixes and hidden 
-    fees anonymously. 🔮
+    feedback about our product and run this analysis on those surveys. People might be more inclinded to include more detailed descriptions of potential feature fixes anonymously. 🔮
 """)
     
 st.write("")
