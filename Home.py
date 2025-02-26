@@ -44,7 +44,7 @@ st.markdown(
 #st.sidebar.image("Figures/houses_sidebar.jpeg", caption="California Houses")
 
 st.write("My name is Bena Smith. I am a data scientist with an M.S. in statistics. I was so excited about TikTok after applying, I built this website to showcase a few \
-        of my strengths. I performed sentiment analysis on webpages mentioning TikTok.\
+        of my strengths. I performed sentiment analysis on webpages mentioning TikTok and identified common positive and negative phrases.\
         I hope you enjoy my analysis!")
 
 
