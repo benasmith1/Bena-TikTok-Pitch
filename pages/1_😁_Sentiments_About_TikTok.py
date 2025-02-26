@@ -122,7 +122,7 @@ st.write("")
 
 with st.expander("🧮 **Procedure**"):
     st.write("""
-    🔎 **1. Scrape the web for pages mentioning TiTok**: I used the googlesearch Python package to retreive URLs that appear in the Google Search: \"TikTok Opinions\"\
+    🔎 **1. Scrape the web for pages mentioning TikTok**: I used the googlesearch Python package to retreive URLs that appear in the Google Search: \"TikTok Opinions\"\
     The newspaper package was used to parse the text from these webpages
              
     😁 **2. Analyze Sentiments**: I used the vaderSentiment package to estimate the sentiment of each webpage
